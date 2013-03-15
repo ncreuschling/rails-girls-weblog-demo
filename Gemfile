@@ -1,4 +1,4 @@
-ruby "2.0.0" # 1.9.x should work as well
+ruby "1.9.3"
 source 'https://rubygems.org'
 
 gem 'rails', '3.2.12'
